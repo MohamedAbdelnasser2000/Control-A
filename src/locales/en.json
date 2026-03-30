@@ -1,0 +1,354 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "footer": {
+    "company": "Company",
+    "aboutUs": "About Us",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "rights": "© 2026 Control A Software Solutions. All rights reserved.",
+    "description": "Expertise, Innovation & Trust. We are a team of dedicated professionals committed to delivering high-quality digital solutions.",
+    "webDev": "Web Development",
+    "mobileApps": "Mobile Apps",
+    "aiMl": "AI & ML",
+    "iotSolutions": "IoT Solutions"
+  },
+  "common": {
+    "brandName": "Control A",
+    "seo": {
+      "defaultTitle": "Control A | Digital Solutions & Embedded Systems",
+      "defaultDescription": "Control A provides cutting-edge digital solutions, web development, mobile apps, AI, and embedded systems. Empowering businesses with modern technology.",
+      "defaultKeywords": "web development, mobile apps, AI solutions, embedded systems, IoT, software engineering, Control A"
+    },
+    "liveDemo": "Live Demo",
+    "source": "Source",
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "viewWork": "View Our Work",
+    "viewAllProjects": "View All Projects",
+    "getInTouch": "Get in Touch Now",
+    "catIotWeb": "IoT / Web",
+    "catAiMobile": "AI / Mobile",
+    "catWeb": "Web",
+    "catEmbedded": "Embedded",
+    "catWebAi": "Web / AI",
+    "catMobileCourses": "Mobile / Courses",
+    "authorJohn": "John Doe",
+    "authorJane": "Jane Smith",
+    "authorMike": "Mike Johnson",
+    "authorSarah": "Sarah Williams",
+    "authorDavid": "David Brown",
+    "authorEmily": "Emily Davis",
+    "dateMar15": "Mar 15, 2026",
+    "dateMar10": "Mar 10, 2026",
+    "dateMar05": "Mar 05, 2026",
+    "dateFeb28": "Feb 28, 2026",
+    "dateFeb20": "Feb 20, 2026",
+    "dateFeb15": "Feb 15, 2026",
+    "salary5k8k": "$5k - $8k",
+    "salary6k10k": "$6k - $10k",
+    "salary4k7k": "$4k - $7k",
+    "salary4k6k": "$4k - $6k",
+    "salary3k5k": "$3k - $5k",
+    "salary5k9k": "$5k - $9k"
+  },
+  "home": {
+    "hero": {
+      "badge": "INNOVATION & TRUST",
+      "title": "Building the",
+      "titleGradient": "Digital Future",
+      "titleEnd": "of Your Business",
+      "description": "We provide comprehensive tech solutions from web and mobile apps to AI, IoT, and embedded systems. Transform your ideas into reality with Control A."
+    },
+    "seo": {
+      "title": "Home | Control A - Digital Solutions",
+      "description": "Control A is a leading technology company specializing in web, mobile, AI, and embedded systems. Explore our innovative solutions for a digital future.",
+      "keywords": "digital solutions, tech company, software development, hardware integration"
+    },
+    "stats": {
+      "projects": "Projects Completed",
+      "clients": "Happy Clients",
+      "experience": "Years Experience",
+      "experts": "Tech Experts"
+    },
+    "services": {
+      "title": "Comprehensive Tech Solutions",
+      "description": "From software to hardware, we cover the entire digital spectrum to help your business stay ahead.",
+      "web": {
+        "title": "Web Development",
+        "description": "High-performance, scalable web applications built with modern frameworks and clean code.",
+        "tags": ["React", "Node.js", "Next.js", "Cloud"]
+      },
+      "mobile": {
+        "title": "Mobile Applications",
+        "description": "Native and cross-platform mobile apps that provide seamless user experiences on iOS and Android.",
+        "tags": ["React Native", "Flutter", "iOS", "Android"]
+      },
+      "ai": {
+        "title": "AI Solutions",
+        "description": "Integrating cutting-edge artificial intelligence and machine learning to automate and optimize business processes.",
+        "tags": ["ML", "NLP", "Computer Vision", "Data Science"]
+      },
+      "embedded": {
+        "title": "Embedded Systems",
+        "description": "Custom hardware and software integration for specialized devices and industrial automation.",
+        "tags": ["C/C++", "RTOS", "Microcontrollers", "Hardware"]
+      },
+      "iot": {
+        "title": "IoT Solutions",
+        "description": "Connecting devices and systems to create smart environments and data-driven insights.",
+        "tags": ["Sensors", "Connectivity", "Smart Home", "Industrial IoT"]
+      },
+      "courses": {
+        "title": "Courses & Training",
+        "description": "Empowering the next generation of developers with hands-on training and professional mentorship.",
+        "tags": ["Bootcamps", "Workshops", "Mentorship", "Certifications"]
+      }
+    },
+    "projects": {
+      "title": "Recent Projects",
+      "description": "A glimpse into our latest innovations."
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "description": "Let's discuss your next project and how we can help you achieve your digital goals.",
+      "feature1": "Free initial consultation",
+      "feature2": "Detailed project roadmap",
+      "feature3": "Expert technical guidance",
+      "noCommitment": "No commitment required. Let's just talk."
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About",
+      "titleGradient": "Control A",
+      "description": "We are a team of passionate engineers, designers, and strategists dedicated to building high-quality digital solutions that drive innovation and trust."
+    },
+    "seo": {
+      "title": "About Us | Control A - Our Mission & Team",
+      "description": "Learn about Control A's mission, vision, and the expert team behind our innovative digital and hardware solutions.",
+      "keywords": "about us, tech team, company mission, engineering excellence"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To empower businesses by providing cutting-edge technology solutions that are secure, reliable, and scalable. We strive to be the bridge between complex technology and practical business needs."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To become a global leader in digital transformation, recognized for our innovation, integrity, and the positive impact we create for our clients and the community."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "description": "The principles that guide everything we do.",
+      "trust": {
+        "title": "Trust",
+        "description": "Building long-term relationships based on transparency and reliability."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Constantly exploring new technologies to provide the best solutions."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "Working closely with our clients as true partners in their success."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "A relentless commitment to excellence in every line of code."
+      }
+    },
+    "team": {
+      "title": "Meet the Experts",
+      "member": "Expert Professional",
+      "role": "Senior Engineer"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Expertise &",
+      "titleGradient": "Solutions",
+      "description": "We provide a wide range of technical services to help businesses navigate the digital landscape and achieve their goals."
+    },
+    "seo": {
+      "title": "Services | Web, Mobile, AI & Embedded Systems",
+      "description": "Explore our expert services in web development, mobile apps, AI integration, IoT, and embedded systems. Tailored solutions for your business.",
+      "keywords": "web development services, mobile app development, AI integration, IoT solutions, embedded systems engineering"
+    },
+    "inquire": "Inquire About This Service",
+    "features": {
+      "web": ["Custom SPA & SSR Applications", "E-commerce Solutions", "Progressive Web Apps (PWA)", "API Development & Integration"],
+      "mobile": ["iOS & Android Native Apps", "React Native & Flutter", "Mobile UI/UX Design", "App Store Optimization"],
+      "ai": ["Machine Learning Models", "Natural Language Processing", "Computer Vision Systems", "Predictive Analytics"],
+      "embedded": ["Firmware Development", "RTOS Implementation", "Hardware/Software Co-design", "Driver Development"],
+      "iot": ["Smart Device Integration", "Real-time Monitoring", "Cloud Connectivity", "IoT Security & Scalability"],
+      "courses": ["Full-stack Bootcamps", "Specialized Tech Workshops", "Corporate Training", "One-on-One Mentorship"]
+    },
+    "process": {
+      "title": "Our Development Process",
+      "description": "How we bring your ideas to life.",
+      "steps": [
+        { "title": "Discovery", "description": "Understanding your vision and requirements." },
+        { "title": "Planning", "description": "Creating a detailed roadmap and architecture." },
+        { "title": "Development", "description": "Building with precision and quality." },
+        { "title": "Delivery", "description": "Testing, deployment, and ongoing support." }
+      ]
+    }
+  },
+  "projects": {
+    "hero": {
+      "title": "Recent",
+      "titleGradient": "Innovations",
+      "description": "Explore our portfolio of cutting-edge tech solutions across various domains."
+    },
+    "seo": {
+      "title": "Projects | Our Portfolio of Innovation",
+      "description": "See our latest projects in action. From smart factory dashboards to AI health diagnostics, we deliver high-impact technology solutions.",
+      "keywords": "project portfolio, case studies, software projects, hardware projects"
+    },
+    "items": {
+      "p1": { "title": "Smart Factory Dashboard", "description": "Real-time monitoring and control system for industrial manufacturing processes." },
+      "p2": { "title": "AI Health Diagnostic", "description": "A mobile application that uses machine learning to provide preliminary health diagnostics." },
+      "p3": { "title": "E-Commerce Platform", "description": "A high-performance, scalable e-commerce solution with advanced search and filtering." },
+      "p4": { "title": "Home Automation Hub", "description": "Custom hardware and software for controlling smart home devices from a single interface." },
+      "p5": { "title": "Financial Analytics Tool", "description": "A web-based tool for analyzing financial data and predicting market trends using AI." },
+      "p6": { "title": "Educational App", "description": "An interactive mobile application for learning programming and computer science." }
+    },
+    "cta": {
+      "title": "Have a project in mind?",
+      "description": "Let's build something amazing together. Our team is ready to turn your vision into a reality.",
+      "button": "Start Your Project"
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Tech",
+      "titleGradient": "Insights",
+      "description": "Stay up to date with the latest trends and technologies in the digital world."
+    },
+    "seo": {
+      "title": "Blog | Tech Insights & Innovation",
+      "description": "Read our latest articles on web development, AI trends, IoT security, and embedded systems. Stay ahead with Control A's tech blog.",
+      "keywords": "tech blog, software development trends, AI news, engineering tutorials"
+    },
+    "search": {
+      "placeholder": "Search articles...",
+      "categories": {
+        "all": "All",
+        "web": "Web",
+        "mobile": "Mobile",
+        "ai": "AI",
+        "iot": "IoT",
+        "embedded": "Embedded"
+      }
+    },
+    "items": {
+      "post1": { "title": "The Future of Web Development in 2026", "excerpt": "Explore the latest trends and technologies shaping the future of web development." },
+      "post2": { "title": "AI and Machine Learning: Beyond the Hype", "excerpt": "A deep dive into the practical applications of AI and ML in modern business." },
+      "post3": { "title": "Building Secure IoT Systems", "excerpt": "Learn how to design and implement secure IoT solutions for industrial and home use." },
+      "post4": { "title": "Embedded Systems: A Comprehensive Guide", "excerpt": "Everything you need to know about developing software for specialized hardware." },
+      "post5": { "title": "The Importance of UI/UX in Mobile Apps", "excerpt": "How to create seamless and engaging user experiences for mobile applications." },
+      "post6": { "title": "Getting Started with React Native", "excerpt": "A beginner-friendly guide to building cross-platform mobile apps with React Native." }
+    },
+    "newsletter": {
+      "title": "Subscribe to our Newsletter",
+      "description": "Get the latest tech insights and company updates delivered straight to your inbox.",
+      "placeholder": "Email address",
+      "button": "Subscribe"
+    }
+  },
+  "careers": {
+    "hero": {
+      "title": "Join Our",
+      "titleGradient": "Team",
+      "description": "Help us build the digital future. We are always looking for passionate and talented individuals to join our team and help us build the future of technology."
+    },
+    "seo": {
+      "title": "Careers | Join the Control A Team",
+      "description": "Build your career with Control A. Explore our current job openings for software engineers, designers, and hardware experts.",
+      "keywords": "tech careers, job openings, software engineer jobs, hardware engineer jobs, join our team"
+    },
+    "whyJoin": {
+      "title": "Why Work at Control A?",
+      "benefits": [
+        { "title": "Remote-First Culture", "description": "Work from anywhere in the world with flexible hours." },
+        { "title": "Cutting-Edge Tech", "description": "Work with the latest technologies in AI, IoT, and Web." },
+        { "title": "Continuous Learning", "description": "Access to professional training and mentorship programs." },
+        { "title": "Impactful Projects", "description": "Build solutions that solve real-world problems for global clients." }
+      ]
+    },
+    "openings": {
+      "title": "Current Openings",
+      "subtitle": "Find your next role at Control A.",
+      "count": "{{count}} Open Positions",
+      "items": {
+        "j1": { "title": "Senior Full Stack Developer", "category": "Engineering", "location": "Remote / Cairo", "type": "Full-time" },
+        "j2": { "title": "AI Research Engineer", "category": "AI & ML", "location": "Remote / Dubai", "type": "Full-time" },
+        "j3": { "title": "Mobile App Developer (React Native)", "category": "Engineering", "location": "Remote", "type": "Full-time" },
+        "j4": { "title": "Embedded Systems Engineer", "category": "Hardware", "location": "On-site / Cairo", "type": "Full-time" },
+        "j5": { "title": "UI/UX Designer", "category": "Design", "location": "Remote", "type": "Contract" },
+        "j6": { "title": "Technical Project Manager", "category": "Management", "location": "Remote", "type": "Full-time" }
+      },
+      "apply": "Apply Now"
+    },
+    "referral": {
+      "title": "Know someone who'd be a great fit?",
+      "description": "Refer a candidate and get a bonus if they're hired. Help us find the best talent.",
+      "button": "Refer a Friend"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in",
+      "titleGradient": "Touch",
+      "description": "Have a project in mind or just want to say hello? We'd love to hear from you."
+    },
+    "seo": {
+      "title": "Contact Us | Get in Touch with Control A",
+      "description": "Ready to start your next project? Contact Control A for expert digital and hardware solutions. We're here to help you innovate.",
+      "keywords": "contact us, hire developers, tech consultation, project inquiry"
+    },
+    "info": {
+      "email": { "title": "Email Us", "detail": "We usually respond within 24 hours." },
+      "phone": { "title": "Call Us", "detail": "Mon - Fri, 9am - 6pm (GMT+2)" },
+      "visit": { "title": "Visit Us", "location": "Cairo, Egypt", "address": "123 Tech Street, Digital District" }
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "placeholder": {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "subject": "Project Inquiry",
+        "message": "Tell us about your project..."
+      },
+      "button": "Send Message"
+    },
+    "sidebar": {
+      "chat": { "title": "Live Chat", "description": "Need immediate assistance? Chat with our support team.", "button": "Start Chatting" },
+      "hours": {
+        "title": "Office Hours",
+        "description": "We are available during the following hours:",
+        "monFri": "Monday - Friday",
+        "sat": "Saturday",
+        "sun": "Sunday",
+        "closed": "Closed",
+        "monFriHours": "9:00 AM - 6:00 PM",
+        "satHours": "10:00 AM - 2:00 PM"
+      }
+    }
+  }
+}

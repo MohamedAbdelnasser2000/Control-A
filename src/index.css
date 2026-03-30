@@ -1,0 +1,50 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  --color-brand-primary: var(--primary-color);
+  --color-brand-bg: var(--bg-color);
+  --color-brand-card: var(--card-color);
+  --color-brand-border: var(--border-color);
+  --color-brand-text: var(--text-color);
+  --color-brand-muted: var(--muted-color);
+}
+
+:root {
+  --primary-color: #00FF9C;
+  --bg-color: #0A0A0A;
+  --card-color: #141414;
+  --border-color: #262626;
+  --text-color: #FFFFFF;
+  --muted-color: #9CA3AF;
+}
+
+.light {
+  --primary-color: #0D9488; /* Darker teal/green for visibility */
+  --bg-color: #F9FAFB;
+  --card-color: #FFFFFF;
+  --border-color: #E5E7EB;
+  --text-color: #111827;
+  --muted-color: #4B5563;
+}
+
+@layer base {
+  body {
+    @apply bg-brand-bg text-brand-text font-sans antialiased transition-colors duration-300;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-white/5 backdrop-blur-md border border-white/10;
+  }
+  .light .glass {
+    @apply bg-brand-card/50 border-brand-border/50;
+  }
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-linear-to-r from-brand-primary to-blue-500;
+  }
+}
